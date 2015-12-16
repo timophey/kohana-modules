@@ -313,3 +313,6 @@
 [submodule "kohana-phpmailer"]
 	path = kohana-phpmailer
 	url = https://github.com/timophey/kohana-phpmailer.git
+[submodule "kohana-mustache"]
+	path = kohana-mustache
+	url = git://github.com/timophey/kohana-mustache.git
